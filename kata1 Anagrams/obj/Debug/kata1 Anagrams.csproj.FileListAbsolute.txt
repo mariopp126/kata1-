@@ -1,0 +1,7 @@
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\bin\Debug\kata1 Anagrams.exe.config
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\bin\Debug\kata1 Anagrams.exe
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\bin\Debug\kata1 Anagrams.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\obj\Debug\kata1 Anagrams.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\obj\Debug\kata1 Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\obj\Debug\kata1 Anagrams.exe
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\kata1 Anagrams\obj\Debug\kata1 Anagrams.pdb
