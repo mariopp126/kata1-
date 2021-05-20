@@ -1,0 +1,17 @@
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\TestAnagrams.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\TestAnagrams.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\obj\Debug\TestAnagrams.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\obj\Debug\TestAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\obj\Debug\TestAnagrams.csproj.CopyComplete
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\obj\Debug\TestAnagrams.dll
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\obj\Debug\TestAnagrams.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\kata1 Anagrams.exe
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\kata1 Anagrams.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\kata1\TestAnagrams\bin\Debug\kata1 Anagrams.exe.config
